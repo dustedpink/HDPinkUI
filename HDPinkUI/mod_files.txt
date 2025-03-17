@@ -1,0 +1,4 @@
+add +EvilSonic.arl
+add +EvilSonic.ar.00
+add +Sonic.arl
+add mod.ini
