@@ -1,0 +1,38 @@
+{
+  "Groups": [
+    {
+      "Name": "Main",
+      "DisplayName": "Options",
+      "Elements": [
+        {
+		"Name": "IncludeDir1",
+		"DisplayName": "Life Icons",
+		"Description": [
+		"Swaps out the life icons for alternate versions",
+				],
+            "Type": "Life Icons",
+		    "MinValue": null,
+		    "MaxValue": null,
+            "DefaultValue": ".\\Life Icons\\Standard"
+        }
+      ]
+    }
+  ],
+  "Enums": {
+    "Life Icons": [
+	  {
+        "DisplayName": "Default",
+        "Value": ".\\Life Icons\\Standard"
+      },
+      {
+        "DisplayName": "Trans Fem Sonic (Lady Lunanova)",
+        "Value": ".\\Life Icons\\Transfem"
+      },
+{
+        "DisplayName": "Amy Rose",
+        "Value": ".\\Life Icons\\Amy"
+      }
+    ]
+  },
+  "IniFile": "mod.ini"
+}
