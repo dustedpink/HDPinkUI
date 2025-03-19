@@ -8,7 +8,7 @@
 		"Name": "IncludeDir1",
 		"DisplayName": "Life Icons",
 		"Description": [
-		"Swaps out the life icons for alternate versions",
+		"Changes the life icons used in the HUD and world map.",
 				],
             "Type": "Life Icons",
 		    "MinValue": null,
