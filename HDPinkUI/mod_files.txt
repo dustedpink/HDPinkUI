@@ -1,35 +1,9 @@
-delete +EvilSonic.arl
-delete +EvilSonic.ar.00
-delete +Sonic.arl
-delete +Sonic.ar.00
-delete Languages/English/+ActionCommon.ar.00
-delete Languages/English/+ActionCommon.arl
-delete Languages/English/+Sonic.ar.00
-delete Languages/English/+Sonic.arl
-add Main/+EvilSonic.arl
-add Main/+EvilSonic.ar.00
-add Main/+Sonic.arl
-add Main/+Sonic.ar.00
-add Main/Languages/English/+ActionCommon.ar.00
-add Main/Languages/English/+ActionCommon.arl
-add Main/Languages/English/+Sonic.ar.00
-add Main/Languages/English/+Sonic.arl
-add Life Icons/Standard/+EvilSonic.arl
-add Life Icons/Standard/+EvilSonic.ar.00
-add Life Icons/Standard/+Sonic.arl
-add Life Icons/Standard/+Sonic.ar.00
-add Life Icons/Standard/+SystemCommonCore.arl
-add Life Icons/Standard/+SystemCommonCore.ar.00
-add Life Icons/Transfem/+EvilSonic.arl
-add Life Icons/Transfem/+EvilSonic.ar.00
-add Life Icons/Transfem/+Sonic.arl
-add Life Icons/Transfem/+Sonic.ar.00
-add Life Icons/Transfem/+SystemCommonCore.arl
-add Life Icons/Transfem/+SystemCommonCore.ar.00
-add Life Icons/Amy/+EvilSonic.arl
-add Life Icons/Amy/+EvilSonic.ar.00
-add Life Icons/Amy/+Sonic.arl
-add Life Icons/Amy/+Sonic.ar.00
-add Life Icons/Amy/+SystemCommonCore.arl
-add Life Icons/Amy/+SystemCommonCore.ar.00
+add +EvilSonic.arl
+add +EvilSonic.ar.00
+add +Sonic.arl
+add +Sonic.ar.00
+add Languages/English/+ActionCommon.ar.00
+add Languages/English/+ActionCommon.arl
+add Languages/English/+Sonic.ar.00
+add Languages/English/+Sonic.arl
 add mod.ini
