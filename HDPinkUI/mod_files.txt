@@ -1,4 +1,3 @@
-add mod.ini
 add +EvilSonic.arl
 add +EvilSonic.ar.00
 add +Sonic.arl
@@ -7,4 +6,4 @@ add Languages/English/+ActionCommon.ar.00
 add Languages/English/+ActionCommon.arl
 add Languages/English/+Sonic.ar.00
 add Languages/English/+Sonic.arl
-
+add mod.ini
