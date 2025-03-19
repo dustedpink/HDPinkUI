@@ -1,3 +1,6 @@
+## 1.2.1 Hotfix
+- Fixed mod-breaking update.
+
 ## 1.2
 - Added config options for Sonic, Amy Rose, and Trans Fem Sonic (Lady Lunanova) life icons
 - Overhaul of the day stage UI
